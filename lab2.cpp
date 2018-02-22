@@ -88,7 +88,6 @@ int main() {
 	getchar();
 	}while(choice!='e');//exit when choose e
 
-	cout<<"\n\nWelcome to section 2!"<<endl;
 
 	do{
 		int choice;
