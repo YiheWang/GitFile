@@ -88,6 +88,9 @@ int main() {
 	getchar();
 	}while(choice!='e');//exit when choose e
 	cout<<"test"<<endl;
+	
+	cout<<"test"<<endl;
+
 
 	do{
 		int choice;
